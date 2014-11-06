@@ -1,0 +1,9 @@
+*.mod.c
+*.mod.o
+*.o
+*.ko
+*~
+*.cmd
+*symbers
+.svn*
+.tmp_versions*

@@ -1,0 +1,3 @@
+kernel/net/mac80211/my_tc/tc/matteo_tc.ko
+kernel/net/mac80211/my_tc/tc/q_htb.ko
+kernel/net/mac80211/my_tc/tc/f_fw.ko
